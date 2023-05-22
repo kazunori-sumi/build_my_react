@@ -33,6 +33,7 @@ React.createElement で引数のバリデーションとオブジェクトの作
   }
 ```
 
+type は DOM ノードタイプを表す。HTML 要素を作成する際に document.createElement に渡す tagName。
 
 
 [参考](https://zenn.dev/akatsuki/articles/a2cbd26488fa151b828b)
